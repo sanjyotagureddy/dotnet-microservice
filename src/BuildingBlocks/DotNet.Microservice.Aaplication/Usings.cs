@@ -1,0 +1,1 @@
+global using DotNet.Microservice.Domain.Entities;
